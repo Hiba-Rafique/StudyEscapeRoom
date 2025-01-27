@@ -1,0 +1,14 @@
+# Ignore build files and output
+x64/
+Debug/
+Release/
+
+# Ignore Visual Studio temporary files
+.vs/
+*.vcxproj.user
+*.opendb
+*.tlog
+
+# Ignore backup and temporary files
+*.log
+*.tmp
