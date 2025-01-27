@@ -1,0 +1,3 @@
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\x64\Debug\raylib.dll
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\x64\Debug\glfw3.dll
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\StudyEscapeRoom\x64\Debug\StudyEsc.EA264FA3.Up2Date

@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\classdefinitions.h(146,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\classdefinitions.h(146,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\functiondefinitions.h(33,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\functiondefinitions.h(34,80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\functiondefinitions.h(35,64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\functiondefinitions.h(36,83): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\functiondefinitions.h(43,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\functiondefinitions.h(43,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\functiondefinitions.h(45,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\functiondefinitions.h(45,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\main.cpp(8,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\main.cpp(130,26): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\main.cpp(130,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\main.cpp(130,31): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\main.cpp(130,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  StudyEscapeRoom.vcxproj -> C:\Users\hibar\OneDrive\Documents\StudyEscapeRoom\x64\Debug\StudyEscapeRoom.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
