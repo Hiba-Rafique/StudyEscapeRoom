@@ -1,5 +1,8 @@
 # Study Escape Room
 Find all obstacles, and demonstrate your knowledge to escape the Study Room!
+
+# Gameplay:
+
 <img width="711" height="665" alt="image" src="https://github.com/user-attachments/assets/0a9ffb5e-d982-4c53-a4ed-48a0949e9231" />
 
 <img width="703" height="661" alt="image" src="https://github.com/user-attachments/assets/29e21ab5-6a16-4b90-a39f-f21e73a999e6" />
